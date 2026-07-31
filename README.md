@@ -166,7 +166,7 @@ Contributions are welcome! Please feel free to:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Shruti Sharma**
 - GitHub: (https://github.com/shruti0890)
 
 
